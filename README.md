@@ -1,3 +1,5 @@
+The link to the live webpage is https://gpt3-clone-jmastery.netlify.app/
+
 In this project i learned the following:
 
 React Functional components and their reusability
